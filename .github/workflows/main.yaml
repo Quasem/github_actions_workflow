@@ -1,7 +1,7 @@
 name: My Github actions Workflow
 on: [push]
 
-job: 
+jobs: 
   testing_github:
     runs-on: ubuntu-latest
     steps: 
